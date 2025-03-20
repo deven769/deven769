@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Software Engineer working at Fourth Valley Concierge Corporation
+- 🔭 I’m currently Software Engineer working at Komhar Services
 - 🌱 I’m currently learning Kubernetes
 - 🔬 I love to researh on Computer Vision, Data Science, Statistic, Blockchain, Cryptography etc 
 - 💬 Ask me about Python, Golang, Django etc
